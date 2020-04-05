@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.003">
+  <properties />
+  
+  
+            <testcase name="secondTest" time="0.002" classname="livesteadfast.AmazonScreenshot2" />
+                <testcase name="firstTest" time="0.001" classname="livesteadfast.AmazonScreenshot2" />
+      
+</testsuite>
